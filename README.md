@@ -1,5 +1,5 @@
 # plāns
-The official spec for the Vardi VM - developed by the Vardi Fun Group (@vardivm/vfg).
+The official spec for the Vardi VM - developed by the Vardi Fun Group [@vardivm/vfg](https://github.com/orgs/vardivm/teams/vfg).
 
 ## This repo
 shall only contains specifications and documentation for the Vardi VM.
@@ -20,8 +20,8 @@ shall only contains specifications and documentation for the Vardi VM.
 
 ## Contributors
 
-* @chrysophylax
-* @ceigey
+* [@chrysophylax](https://github.com/chrysophylax)
+* [@ceigey](https://github.com/ceigey)
 
 
 ## Thanks
