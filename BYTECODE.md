@@ -1,6 +1,7 @@
 # Vardi Bytecode
 The instruction set of the Vardi virtual machine.
 All bytecodes are encoded in a single octet (0-255).
+An explanation of how they should be implemented is [over here](https://github.com/vardivm/plans/blob/master/INTERPRET.md).
 
 # 
 | HEX | DECIMAL | ENGLISH |
