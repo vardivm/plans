@@ -2,11 +2,11 @@
 The official spec for the Vardi VM - developed by the Vardi Fun Group [@vardivm/vfg](https://github.com/orgs/vardivm/teams/vfg).
 
 ## This repo
-shall only contains specifications and documentation for the [Vardi VM](https://github.com/vardivm).
+shall only contain specifications and documentation for the [Vardi VM](https://github.com/vardivm).
 
 ## Specifications
 
-* A specification for the memory module of the VM. 
+* A specification for the [memory module of the VM](https://github.com/vardivm/plans/blob/master/MEMORY.md). 
 
 * A specification of the [directly executable byte code](https://github.com/vardivm/plans/blob/master/BYTECODE.md). 
 
@@ -24,6 +24,6 @@ shall only contains specifications and documentation for the [Vardi VM](https://
 * [@ceigey](https://github.com/ceigey)
 
 
-## Thanks
+## Special Thanks
 
 	
