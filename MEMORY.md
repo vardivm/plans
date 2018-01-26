@@ -17,7 +17,7 @@ Vardi shall have 64 KiB of byte-addressable memory. There shall be no segmentati
 * store (:uint16 addr, :uint8 val) :boolean
     This function shall store an 8-bit unsigned integer at the given memory address. It shall return true if the address exists and a write was successful.
 
-* fetch (:uint16 addr, :uint8 val) :uint8
+* fetch (:uint16 addr) :uint8
     This function shall fetch an 8-bit unsigned integer at the given memory address. It shall return the 8-bit unsigned integer if it exists. Uninitialized memory is undefined.
 
 * clear (:uint16 addr) :void
